@@ -10,3 +10,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0476-number-complement) |
+# Array
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+# Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
