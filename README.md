@@ -24,3 +24,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+<!---LeetCode Topics End-->
