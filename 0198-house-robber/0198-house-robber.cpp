@@ -1,22 +1,24 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();     
-        vector<int> dp(n, 0);
-        dp[0] = nums[0];
+        int n = nums.size(); 
+        if(n == 1)
+        {
+            return nums[0];
+        } 
+        int prev = nums[0];
+        int prev2 = 0;
+        int ans;
         for(int i = 1; i < n; i++)
         {
             int two = nums[i];
             if(i > 1)
-                two += dp[i - 2];
-            int one = dp[i - 1];
-            dp[i] = max(two, one);
+                two += prev2;
+            int one = prev;
+            ans = max(two, one);
+            prev2 = prev;
+            prev = ans;
         }
-        for(int i : dp)
-        {
-            cout << i << " ";
-        }
-        cout << endl;
-        return dp[n - 1];
+        return ans;
     }
 };
