@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 ## Math
