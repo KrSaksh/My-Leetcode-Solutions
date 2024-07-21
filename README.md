@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -99,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
