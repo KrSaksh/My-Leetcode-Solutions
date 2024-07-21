@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Sorting
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [3379-score-of-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
