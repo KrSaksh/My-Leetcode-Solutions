@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3379-score-of-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -125,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Hash Table
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
