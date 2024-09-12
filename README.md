@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Ordered Set
 |  |
 | ------- |
