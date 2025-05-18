@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0967-minimum-falling-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,4 +139,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
