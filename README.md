@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0443-string-compression](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0443-string-compression) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
