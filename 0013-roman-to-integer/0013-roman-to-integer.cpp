@@ -1,41 +1,72 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int result = 0;
+        int ans = 0;
+        bool fi = false;
+        bool fx = false;
+        bool fc = false;
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == 'I') {
-                if (i < s.length() - 1 &&
-                    (s[i + 1] == 'V' || s[i + 1] == 'X')) {
-                    result -= 1;
-                } else {
-                    result += 1;
-                }
-            } else if (s[i] == 'X') {
-                if (i < s.length() - 1 &&
-                    (s[i + 1] == 'L' || s[i + 1] == 'C')) {
-                    result -= 10;
-                } else {
-                    result += 10;
-                }
-            } else if (s[i] == 'C') {
-                if (i < s.length() - 1 &&
-                    (s[i + 1] == 'D' || s[i + 1] == 'M')) {
-                    result -= 100;
-                } else {
-                    result += 100;
-                }
-            } else if (s[i] == 'V') {
-                result += 5;
-            } else if (s[i] == 'L') {
-                result += 50;
-            } else if (s[i] == 'D') {
-                result += 500;
-            } else if (s[i] == 'M') {
-                result += 1000;
+        // unordered_map<char, int> m;
+        // m.insert({'I', 1});
+        // m.insert({'V', 5});
+        // m.insert({'X', 10});
+        // m.insert({'L', 50});
+        // m.insert({'C', 100});
+        // m.insert({'D', 500});
+        // m.insert({'M', 1000});
+
+        for(int i = s.length() - 1; i >= 0; i--)
+        {
+            if(s[i] == 'I')
+            {
+                if(fi == false)
+                    ans += 1;
+                else if(fi == true)
+                    ans -= 1;
+            }    
+            else if(s[i] == 'V')
+            {
+                fi = true;
+                ans += 5;
+            }   
+            else if(s[i] == 'X')
+            {
+                fi = true;
+                if(fx == false)
+                    ans += 10;
+                if(fx == true)
+                    ans -= 10;
+            }
+            else if(s[i] == 'L')
+            {
+                fi = true;
+                fx = true;
+                ans += 50;
+            }
+            else if(s[i] == 'C')
+            {
+                fi = true;
+                fx = true;
+                if(fc == false)
+                    ans += 100;
+                if(fc == true)
+                    ans -= 100;
+            }
+            else if(s[i] == 'D')
+            {
+                fi = true;
+                fx = true;
+                fc = true;
+                ans += 500;
+            }
+            else if(s[i] == 'M')
+            {
+                fi = true;
+                fx = true;
+                fc = true;
+                ans += 1000;
             }
         }
-
-        return result;
+        return ans;
     }
 };
