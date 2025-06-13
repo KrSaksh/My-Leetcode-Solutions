@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -154,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
