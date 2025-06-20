@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
