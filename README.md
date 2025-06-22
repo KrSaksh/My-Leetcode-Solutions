@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
