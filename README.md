@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0967-minimum-falling-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
