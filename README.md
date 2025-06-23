@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
