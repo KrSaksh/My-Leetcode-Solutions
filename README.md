@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0967-minimum-falling-path-sum](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -172,11 +174,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KrSaksh/My-Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
